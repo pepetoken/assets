@@ -6,7 +6,7 @@
     "research": "https://pepetoken.finance/",
     "type": "BEP20",
     "symbol": "PEPE",
-    "decimals": 18,
+    "decimals": 9,
     "status": "active",
     "id": "0x022A8594b91BCf45B4377Ac5139b171611D4df35"
 }
